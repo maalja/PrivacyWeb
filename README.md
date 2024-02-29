@@ -11,4 +11,5 @@ Install the necessary packages in the requirements.txt with: `pip install -r req
 ## Using
 
 Enter this command in the terminal:`python3 Webscanner.py`
+
 Follow the instructions on the terminal for the Scan a Website
