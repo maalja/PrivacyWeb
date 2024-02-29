@@ -1,0 +1,7 @@
+selenium
+prettytable
+mechanize
+requests
+beautifulsoup4
+GitPython
+sockets
