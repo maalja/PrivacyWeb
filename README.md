@@ -3,7 +3,7 @@ This is a Scanner that checks a website regarding its privacy and digital sovere
 ## Installation
 Install the local Webbkoll and Privacyscore in order to execute the Code
 
-for more Details read the installation instructions:[Webbkoll](https://codeberg.org/dataskydd.net/webbkoll), [Privacyscore](https://github.com/PrivacyScore/privacyscanner)
+for more Details read the installation instructions:[Webbkoll](https://codeberg.org/dataskydd.net/webbkoll), [Privacyscore](https://github.com/PrivacyScore/privacyscanner) ,[Githup](https://github.com/maalja)
 
 you find also other further summary for installing the tools and libraries at the beginning of the Python code
 
